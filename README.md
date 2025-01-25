@@ -37,6 +37,14 @@ A **Galeria de Fotos** foi criada com o objetivo de:
 
 ---
 
+## 🌍 Acesse o Projeto
+
+Você pode acessar o projeto online clicando no link abaixo:
+
+[👉 Galeria de Fotos 📸](https://erik-jquery-galeria-fotos.vercel.app/)
+
+
+---
 ## 🧠 Como Usar
 
 ### Passo 1: Clone o repositório
